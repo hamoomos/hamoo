@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<HTML>
+
+<head>
+<title>woman day</title>
+
+<link rel="stylesheet" href="styles/gad.css">
+<style>
+ .se{width: 300px;height: 40px;font-size: 20px;margin-left: 400px;margin-top: 115px;display: inline-block;}
+ .sara{width: 60px;height: 40px;background-color:rgb(128, 5, 5) ;color:white;border:none;border-radius: 5px;margin-left:0px;margin-top: 117px;}
+    </style>
+
+</head>
+
+
+<body background="see.gif" style="height:1500px;width:1500px;">
+
+    <div class="logo"><img src="hanin logo.png"></div>
+
+
+    <div style="display:flex;flex-direction: row;background-color:rgb(22, 35, 151);
+    width:1600px;height: 180px;position: fixed;margin-left:250px;margin-top: 10px;display: inline-block;z-index:200;">
+
+
+
+<div class="dress"><img class="dressvan" src="dress.jpg"><a href="dress.html"><button class="fashion">Fashion</button></a></div>
+
+
+<div class="scrv"><img class="spa" src="spanish.png"><a href="scarves.html"><button class="scarve">scarves</button></a></div>
+
+
+<div class="bago"><img class="bag" src="bag.jpg"><a href="bag.html"><button class="bags">bags</button></a></div>
+
+<div class="acc"><img class="accs" src="accsesory.png"><a href="accessories.html"><button class="aks">Accessories</button></a></div>
+
+
+<div class="glass"><img class="gla" src="glasses1.png"><a href="glasses.html"><button class="glgl">glasses</button></a></div>
+
+
+<div class="make"><img class="lep" src="leps.png"><a href="make.html"><button class="leplep">make up</button></a></div>
+
+<div class="con"><img class="contact" src="contact.png"><button class="concon">contact us</button></div>
+
+
+
+
+    </div>
+
+
+
+
+<div class="tit">
+         <p1 class="fwel">
+          <strong> HANIN FASHION</strong> 
+          </p1>
+         
+  
+
+</div>
+
+<div style="width: 1500px;height: 400px;background-color:lightblue;margin-top:50px;margin-left:300px;display: flex;flex-direction: row;">
+
+<div><img class="carf" src="care.png"></div>
+
+<div>
+<div><img class="bran" src="brand.png"></div>
+<div class="abs"><img class="she" src="sheep.png"></div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div style="display:flex;flex-direction: row;top:800px"><input class="se" type="text"placeholder="search"><button class="sara">search</button></div>
+
+</body>
+
+
+</HTML>

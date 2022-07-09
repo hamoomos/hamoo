@@ -1,0 +1,70 @@
+
+.dress{background-color:rgb(148, 192, 233);width: 150px;height: 125px;margin-top:12.5px;margin-bottom: 12.5px;margin-left: 10px;margin-right:30px;display: inline-block;}
+.dressvan{width: 100px;height: 120px;padding-top: 5px;padding-left: 20px;border-radius: 260px;}
+
+.fashion{background-color: rgb(148, 192, 233);color:black;border: none;border-radius: 5px;width: 100px;height: 35px;margin-left: 20px;cursor: pointer;}
+.fashion:hover{opacity: 0.5;transition: 0.5s;}
+
+
+.logo{margin-left:50px;display: inline-block;}
+
+
+
+.scrv{background-color:rgb(148, 192, 233);width: 150px;height: 125px;margin-top:12.5px;margin-bottom: 12.5px;margin-left: 10px;margin-right:30px;display: inline-block;}
+.spa{width: 100px;height: 120px;padding-top: 5px;padding-left: 20px;border-radius: 260px;}
+.scarve{background-color:rgb(148, 192, 233);color:black;border: none;border-radius: 5px;width: 100px;height: 35px;margin-left: 20px;cursor: pointer;}
+.scarve:hover{opacity: 0.5;transition: 0.5s;}
+
+
+
+.bago{background-color:rgb(148, 192, 233);width: 150px;height: 125px;margin-top:12.5px;margin-bottom: 12.5px;margin-left: 10px;margin-right:30px;display: inline-block;}
+.bag{width: 100px;height: 120px;padding-top: 5px;padding-left: 20px;border-radius: 260px;}
+.bags{background-color: rgb(148, 192, 233);color: black;border: none;border-radius: 5px;width: 100px;height: 35px;margin-left: 20px;cursor: pointer;}
+.bags:hover{opacity: 0.5;transition: 0.5s;}
+
+
+
+
+.acc{background-color: rgb(148, 192, 233);width: 150px;height: 125px;margin-top:12.5px;margin-bottom: 12.5px;margin-left: 10px;margin-right:30px;display: inline-block;}
+.accs{width: 100px;height: 120px;padding-top: 5px;padding-left: 20px;border-radius: 260px;}
+.aks{background-color: rgb(148, 192, 233);color: black;border: none;border-radius: 5px;width: 100px;height: 35px;margin-left: 20px;cursor: pointer;}
+.aks:hover{opacity: 0.5;transition: 0.5s;}
+
+
+
+.glass{background-color: rgb(148, 192, 233);width: 150px;height: 125px;margin-top:12.5px;margin-bottom: 12.5px;margin-left: 10px;margin-right:30px;display: inline-block;}
+.gla{width: 130px;height: 120px;padding-top: 5px;padding-left: 10px;border-radius: 260px;}
+.glgl{background-color: rgb(148, 192, 233);color: black;border: none;border-radius: 5px;width: 100px;height: 35px;margin-left: 20px;cursor: pointer;}
+.glgl:hover{opacity: 0.5;transition: 0.5s;}
+
+
+
+.make{background-color:rgb(148, 192, 233);width: 150px;height: 125px;margin-top:12.5px;margin-bottom: 12.5px;margin-left: 10px;margin-right:30px;display: inline-block;}
+.lep{width: 100px;height: 120px;padding-top: 5px;padding-left: 20px;border-radius: 260px;}
+.leplep{background-color:rgb(148, 192, 233);color:black;border: none;border-radius: 5px;width: 100px;height: 35px;margin-left: 20px;cursor: pointer;}
+.leplep:hover{opacity: 0.5;transition: 0.5s;}
+
+
+
+
+.tit{justify-content: center;margin-top: 60px;margin-left: 600px;}
+.fwel{font-size:80px;font-style: italic;font-family:monospace;color:white;}
+
+
+
+.con{background-color:rgb(148, 192, 233);width: 150px;height: 125px;margin-top:12.5px;margin-bottom: 12.5px;margin-left: 10px;margin-right:30px;display: inline-block;}
+.contact{width: 130px;height: 120px;padding-top: 5px;padding-left: 20px;border-radius: 260px;}
+.concon{background-color:rgb(148, 192, 233);color: black;border: none;border-radius: 5px;width: 100px;height: 35px;margin-left: 20px;cursor: pointer;}
+.concon:hover{opacity: 0.5;transition: 0.5s;}
+
+
+
+
+
+.carf{width:1000px;height:400px;cursor: pointer;}
+.bran{width:500px;height: 200px;cursor: pointer;}
+.she{width:500px;height: 200px;cursor: pointer;}
+
+
+.abs{position: absolute;}
+
